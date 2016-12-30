@@ -1,3 +1,5 @@
 # SevenLong
-My first GitHub readme.txt
-I don`t know say what , hope everyone try your best to study.加油！
+Hello,guys.
+This is my first GitHub readme.txt
+u can call my Long,
+and I don`t know say what , but wish everyone try your best to study.
